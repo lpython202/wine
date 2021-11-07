@@ -11,3 +11,5 @@
 ## Цели проекта
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
+ссылка на задание: 
+https://dvmn.org/modules/website-layout-for-pydev/lesson/wine-shop/#1
